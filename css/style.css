@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.food {
+    border: 2px solid slateblue;
+    padding: 10px;
+}
+
+.food img {
+    width: 70%;
+}
